@@ -1,2 +1,2 @@
 # Americanas-tech
- estuudos polo tech  backend
+ estudos polo-tech sobre back-end
